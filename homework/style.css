@@ -1,0 +1,13 @@
+.width{
+    margin-left: 10%;
+    margin-right: 10%;
+}
+
+.input{
+    border: solid 1px lightslategrey;
+    border-radius: 5px;
+}
+
+.location{
+    margin-left: 45%;
+}
